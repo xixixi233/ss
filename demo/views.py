@@ -65,5 +65,3 @@ def test(request):
     # return HttpResponse('test.html', locals())
     # return HttpResponse('test.html',locals())
 
-def haha(request):
-    return render(request,'index.html')
